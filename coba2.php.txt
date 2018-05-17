@@ -1,0 +1,27 @@
+<body>
+    <div class="app">
+        <h1>Latihan membuat aplikasi Android</h1>
+        <div id="deviceready" class="blink">
+            <p class="event listening">Terhubung to Device</p>
+            <p class="event received">Device is Siap</p>
+        </div>
+    </div>
+    <script type="text/javascript" src="cordova.js"></script>
+    <script type="text/javascript" src="js/index.js"></script>
+    <script type="text/javascript">
+        app.initialize();
+    </script>
+
+
+<h3>
+sahur Aplikasi Android..
+</h3>
+    
+
+
+
+
+
+
+
+</body>
